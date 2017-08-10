@@ -1,2 +1,2 @@
-dev is a another branch besides master.
+dev is a new branch.
 
