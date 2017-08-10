@@ -1,0 +1,17 @@
+git init
+git add test.txt
+git commit -m "create a file"
+git status
+git diff test.txt
+git log (--pretty=oneline)
+git reflog
+git reset --hard HEAD^ (HEAD^^,HEAD~10)
+git reset --hard commit_id
+cat test.txt
+git checkout --test.txt
+git reset HEAD test.txt
+rm test.txt
+git rm test.txt
+git remote add origin git@github.com:user_name/repository_name.git
+git push (-u) origin master
+git clone git@github.com:user_name/repository_name
